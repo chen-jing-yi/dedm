@@ -1,0 +1,17 @@
+*{
+/*   border: solid 1px black; */
+  font-family: 微軟正黑體;
+}
+.row{
+  font-size:18px;
+}
+.card-title{
+  font-weight:1000;
+  font-size: 35px;
+}
+.card-text{
+  font-size:20px;
+}
+.no1{
+  color:#f08075;
+}
